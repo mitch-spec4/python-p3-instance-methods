@@ -12,12 +12,12 @@ class Dog:
     #Instance method definition
     pass
 
-luna = Dog()
-luna.bark()
-luna.sit()
+fido = Dog()
+fido.bark()
+fido.sit()
 
-rex = Dog()
-rex.bark()
-rex.sit()
+snoopy = Dog()
+snoopy.bark()
+snoopy.sit()
 
-luna.__dir__()
+fido.__dir__()

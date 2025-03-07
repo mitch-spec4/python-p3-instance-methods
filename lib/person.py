@@ -10,7 +10,7 @@ class Person:
 
     #Instance method definition
 
-jessy = Person()
+Joe = Person()
 
-jessy.talk()
-jessy.walk()
+Joe.talk()
+Joe.walk()
